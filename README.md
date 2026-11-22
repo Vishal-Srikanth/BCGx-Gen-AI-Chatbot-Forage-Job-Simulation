@@ -7,7 +7,7 @@ An end-to-end financial data engineering and conversational AI prototype develop
   <img src="BCGx Forage GenAI Job Simulation Certification Screenshot.png" alt="BCGx Forage GenAI Job Simulation Certificate of Completion" width="600px">
 </p>
 
-
+BCGx Forage GenAI Job Simulation Certificate of Completion
 ---
 
 ## Key Engineering Highlights
@@ -50,6 +50,9 @@ To prevent silent failures or misleading financial outputs, the chatbot enforces
 - **Microsoft:** Demonstrated consistent expansion across all three years, averaging **+10.20%** YoY revenue growth and **+12.45%** YoY net income growth.
 - **Apple:** Maintained steady top-line growth (**+2.82%** average YoY revenue growth) with a strong net income rebound of **+19.50%** in 2025 following a slight contraction (**-3.36%**) in 2024.
 - **Tesla:** Experienced top-line flattening in 2024 (**+0.95%**) followed by a **-2.93%** revenue contraction in 2025, alongside significant net income compression (**-32.78%** average YoY change).
+
+## Skills learned in this simulation
+AI Development, Data Collection, Data Science, Financial Analysis, Logical Reasoning, Microsoft Excel, Natural Language Processing, Python Programming
 
 ## Tech Stack
 - **Language:** Python 3.10
