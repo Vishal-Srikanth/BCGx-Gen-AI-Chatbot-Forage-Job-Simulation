@@ -7,7 +7,7 @@ An end-to-end financial data engineering and conversational AI prototype develop
   <img src="BCGx Forage GenAI Job Simulation Certification Screenshot.png" alt="BCGx Forage GenAI Job Simulation Certificate of Completion" width="600px">
 </p>
 
-BCGx Forage GenAI Job Simulation Certificate of Completion
+  #### BCGx Forage GenAI Job Simulation Certificate of Completion
 ---
 
 ## Key Engineering Highlights
