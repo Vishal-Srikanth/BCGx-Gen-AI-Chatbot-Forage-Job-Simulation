@@ -2,7 +2,13 @@
 ## 10-K Financial Report Analysis & Rule-Based Chatbot: From SEC Filings to Automated Insights
 An end-to-end financial data engineering and conversational AI prototype developed for the **BCGx Gen AI Job Simulation on Forage**. This project manually extracts primary financial metrics from official SEC EDGAR 10-K filings, performs multi-year growth feature engineering with Pandas, and powers an interactive, deterministic `if-elif-else` financial chatbot equipped with robust input validation and edge-case error handling.
 
+<!-- Centered Cetrification Screenshot Preview -->
+<p align="center">
+  <img src="BCGx Forage GenAI Job Simulation Certification Screenshot.png" alt="BCGx Forage GenAI Job Simulation Certificate of Completion" width="600px">
+</p>
 
+
+---
 
 ## Key Engineering Highlights
 - **Manual SEC EDGAR Data Extraction & Structuring:** Curated core financial metrics directly from official Form 10-K filings via the SEC EDGAR database and compiled them into a clean, structured CSV dataset (`Findings from 10-k reports.csv`) built in Google Sheets.
