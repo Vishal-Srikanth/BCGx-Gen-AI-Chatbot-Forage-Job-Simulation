@@ -1,4 +1,4 @@
-# BCGx-Gen-AI-Chatbot-Forage-Job-Simulation-
+# BCGx Gen-AI Chatbot [Forage Job Simulation]
 ## 10-K Financial Report Analysis & Rule-Based Chatbot: From SEC Filings to Automated Insights
 An end-to-end financial data engineering and conversational AI prototype developed for the **BCGx Gen AI Job Simulation on Forage**. This project manually extracts primary financial metrics from official SEC EDGAR 10-K filings, performs multi-year growth feature engineering with Pandas, and powers an interactive, deterministic `if-elif-else` financial chatbot equipped with robust input validation and edge-case error handling.
 
